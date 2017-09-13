@@ -1,0 +1,20 @@
+#***********************************************
+#*The collection of scripts for use on servers.*
+#***********************************************
+
+For ticker you want to install "pv"
+
+############sysinfo#############
+sysinfo_ssh_profile.sh >>> /etc/profile.d/
+sysinfo.sh	>>>	/var/local/
+
+
+For a beautiful greeting, generate ANSI Shadow.	> /etc/motd
+# http://patorjk.com/software/taag/#p=display&c=bash&f=ANSI%20Shadow&t=qarea
+
+   ██████╗  █████╗ ██████╗ ███████╗ █████╗
+  ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
+  ██║   ██║███████║██████╔╝█████╗  ███████║
+  ██║▄▄ ██║██╔══██║██╔══██╗██╔══╝  ██╔══██║
+  ╚██████╔╝██║  ██║██║  ██║███████╗██║  ██║
+   ╚══▀▀═╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
